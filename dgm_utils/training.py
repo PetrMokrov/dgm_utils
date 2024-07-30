@@ -3,6 +3,7 @@ from tqdm import tqdm
 from typing import List, Union
 
 import torch
+import wandb
 from torch import optim
 import os
 import gc

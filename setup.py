@@ -15,5 +15,6 @@ setup(
         "torchaudio",
         "gdown",
         "scikit-learn",
+        "wandb",
     ],
 )
