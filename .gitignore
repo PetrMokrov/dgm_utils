@@ -1,2 +1,3 @@
 *.ipynb_checkpoints/*
+*dgm_utils/.ipynb_checkpoints/*
 *__pycache__*
